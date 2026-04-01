@@ -1,4 +1,13 @@
 ## Hi there 👋
+# I'm Bharath Kumar
+## Full Stack Developer focused on building scalable web applications
+
+## Tech Stack
+- Java
+- Spring Boot
+- JavaScript
+- React
+- MySQL
 
 <!--
 **bharathdhana/bharathdhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
