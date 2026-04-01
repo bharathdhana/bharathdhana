@@ -29,4 +29,5 @@ Git • GitHub • Postman
 - LinkedIn → https://www.linkedin.com/in/bharathkumarjn/
 - Portfolio → https://bharathkumar-dev.netlify.app/
 - Email → bharathdhanavan2612@gmail.com
+- DEV → https://dev.to/bharathdhana
 
