@@ -1,25 +1,31 @@
-## Hi there 👋
-# I'm Bharath Kumar
-## Full Stack Developer focused on building scalable web applications
+# Hi, I'm Bharath 👋
+# Full Stack Developer | Java • Spring Boot • React 
 
-## Tech Stack
-- Java
-- Spring Boot
-- JavaScript
-- React
-- MySQL
+# About Me
+- Backend-focused developer interested in scalable system design
+- Building full-stack applications with **Spring Boot** and **React**
+- Practicing **DSA**
+- Learning modern backend architecture and API design
 
-<!--
-**bharathdhana/bharathdhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
+## Backend
+Java • Spring Boot • REST APIs • JWT Authentication
 
-Here are some ideas to get you started:
+## Frontend
+React • HTML • CSS • Tailwind • Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Database
+MySQL 
+
+## Tools
+Git • GitHub • Postman
+
+# Current Focus
+- Building production-level backend systems
+- Improving DSA problem solving
+- Learning system design patterns
+
+# Connect With ME
+LinkedIn → https://www.linkedin.com/in/bharathkumarjn/
+Portfolio → https://bharathkumar-dev.netlify.app/
+
