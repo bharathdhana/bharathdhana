@@ -1,5 +1,5 @@
 # Hi, I'm Bharath 👋
-# Full Stack Developer | Java • Spring Boot • React 
+# Full Stack Developer | Java • Spring Boot • JavaScript • React 
 
 # About Me
 - Backend-focused developer interested in scalable system design
