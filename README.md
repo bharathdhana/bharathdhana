@@ -26,6 +26,6 @@ Git • GitHub • Postman
 - Learning system design patterns
 
 # Connect With ME
-LinkedIn → https://www.linkedin.com/in/bharathkumarjn/
-Portfolio → https://bharathkumar-dev.netlify.app/
+- LinkedIn → https://www.linkedin.com/in/bharathkumarjn/
+- Portfolio → https://bharathkumar-dev.netlify.app/
 
