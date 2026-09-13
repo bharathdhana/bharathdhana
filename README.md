@@ -3,22 +3,22 @@
 
 # About Me
 - Backend-focused developer interested in scalable system design
-- Building full-stack applications with **Spring Boot** and **React**
+- Building full-stack applications with **Spring Boot** and **Angular**
 - Practicing **DSA**
 - Learning modern backend architecture and API design
 
 # Tech Stack
 ## Backend
-Java • Spring Boot • REST APIs • JWT Authentication
+Java • Spring Boot • REST APIs • JWT Authentication • Spring Security • Validation
 
 ## Frontend
-React • HTML • CSS • Tailwind • Bootstrap
+Angular • HTML • CSS • Tailwind • Bootstrap
 
 ## Database
-MySQL 
+MySQL • Postgres
 
 ## Tools
-Git • GitHub • Postman
+Git • GitHub • Postman • Docker
 
 # Current Focus
 - Building production-level backend systems
